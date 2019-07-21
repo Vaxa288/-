@@ -19,7 +19,7 @@ import javax.swing.SwingUtilities;
 public class Calculator {
 private JFrame frame = new JFrame("Calculator");
     private JTextArea txtScreen = new JTextArea();
-    private JLabel lblCredit = new JLabel("Created by Ben Bollinger");
+    private JLabel lblCredit = new JLabel("Created by Vasyl for Victor");
    
    
     //Calculation Variables:
